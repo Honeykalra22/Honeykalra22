@@ -20,7 +20,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![DotNet](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=dotnet&logoColor=white)
+![DotNet](https://img.shields.io/badge/-Dotnet-47A248?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Tools & Others:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
