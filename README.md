@@ -2,9 +2,7 @@
 
 **Full-stack Web Developer** | **Competitive Programmer** | **Tech Enthusiast**
 
-- 🔭 Currently working on a backend project, [Tide Wave](https://github.com/honeykalra22/tide-wave)
-- 🌱 Learning and implementing advanced MongoDB queries and JWT authentication
-- 💼 Available for internships and full-time opportunities
+- 🔭 Currently working in Jugnoo as a full stack developer
 
 ---
 
